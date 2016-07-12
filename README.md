@@ -5,6 +5,8 @@
   1. [Quero ser um desenvolvedor fora do Brasil. E agora?](https://medium.com/@eshiota/quero-ser-um-desenvolvedor-fora-do-brasil-e-agora-5c170c176c8e#.dklhanb7l)
   1. [Remote-friendly brazilian companies](https://github.com/lerrua/remote-jobs-brazil)       
   1. [Remote Jobs](https://github.com/jessicard/remote-jobs)
+  1. [25 Top Sites for Finding the Freelance Jobs You Want](http://skillcrush.com/2015/11/19/25-top-sites-for-finding-freelance-jobs/)
+  1. [Established remote companies](https://github.com/yanirs/established-remote)
 
 # Sites outside compilations
 
