@@ -12,5 +12,7 @@
 
   1. [Remote Wolfy](http://remotewolfy.com/)
   1. [Planet Remote](https://www.planetremote.co)
-
+  1. [workshape](workshape.io)
+  1. [ziprecruiter](https://www.ziprecruiter.com/)
+  1. [monster](http://www.monster.com)
                   
