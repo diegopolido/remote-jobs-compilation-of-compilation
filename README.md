@@ -8,7 +8,7 @@
   1. [25 Top Sites for Finding the Freelance Jobs You Want](http://skillcrush.com/2015/11/19/25-top-sites-for-finding-freelance-jobs/)
   1. [Established remote companies](https://github.com/yanirs/established-remote)
   1. [Trabalhando Remoto](https://github.com/dyegocosta/trabalhando-remoto)
-
+  1. [Como trabalhar online remoto](http://aindaquetardia.com.br/dicas-de-viagem/como-trabalhar-online-remoto/)
 # Sites outside compilations
 
   1. [Remote Wolfy](http://remotewolfy.com/)
