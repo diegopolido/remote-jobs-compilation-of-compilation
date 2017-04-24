@@ -9,11 +9,24 @@
   1. [Established remote companies](https://github.com/yanirs/established-remote)
   1. [Trabalhando Remoto](https://github.com/dyegocosta/trabalhando-remoto)
   1. [Como trabalhar online remoto](http://aindaquetardia.com.br/dicas-de-viagem/como-trabalhar-online-remoto/)
+
 # Sites outside compilations
 
   1. [Remote Wolfy](http://remotewolfy.com/)
   1. [Planet Remote](https://www.planetremote.co)
   1. [workshape](http://workshape.io)
   1. [ziprecruiter](https://www.ziprecruiter.com/)
-  1. [monster](http://www.monster.com)
-                  
+  1. [monster](http://www.monster.com) 
+
+# Job Boards with Feed RSS
+
+  1. [StackOverflow Jobs](http://stackoverflow.com/jobs)
+  1. [RemoteOK](https://remoteok.io/)
+  1. [We Work Remotely](https://weworkremotely.com/)
+  1. [Virtual Vocations](https://www.virtualvocations.com/)
+  1. [Jobspresso](https://jobspresso.co/)
+  1. [Github Jobs](https://jobs.github.com/)
+  1. [Authenticjobs](https://www.authenticjobs.com/)
+  1. [remoteworking.co](http://www.remoteworking.co/)
+
+                
